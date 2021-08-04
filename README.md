@@ -23,7 +23,8 @@ Some of the codes are available in my personal GitHub (https://github.com/microb
 
 ## History
 
-- 2021: Part of contracts and website for NFT project (https://megabonk.com/)
+- 2021: Created a developer tool for interacting with arbitrary EVM-based contract functions without an ABI: https://evmconnector.dev
+- 2021: Part of contracts and website for NFT community project (https://megabonk.com/)
 - 2020-2021: NFT + ERC20 token contracts and website for a clothing brand. An updated version of Unisocks
 - 2020: Technical overview, official reviewer of Superfluid contracts and whitepaper: http://paper.superfluid.finance/
 - 2020: gaming contracts for Score Milk (https://scoremilk.com)
