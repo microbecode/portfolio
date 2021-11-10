@@ -23,6 +23,7 @@ Some of the codes are available in my personal GitHub (https://github.com/microb
 
 ## History
 
+- 2021 NFT rescue with Flashbots: <a href='https://medium.com/@laurippeltonen/rescuing-an-nft-fd0acccfa25a?source=friends_link&sk=1ad63c60bb05a8460c3cdbb44eff3dd5'>Blog post</a>.
 - 2021 Reward distribution <a href='https://github.com/microbecode/Solarmine'>contracts</a> for <a href='http://solarminecoin.com/'>Solarmine</a>
 - 2021: Staking <a href='https://github.com/microbecode/Score-Milk-staking'>contracts</a> for Score Milk (https://scoremilk.com). Staking algorithm based on Synthetix staking
 - 2021: Created a <a href='https://github.com/microbecode/evm-connector'>developer tool</a> for interacting with arbitrary EVM-based contract functions without an ABI: https://evmconnector.dev
