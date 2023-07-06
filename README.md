@@ -2,9 +2,7 @@
 
 ## General
 
-I'm a developer and a consultant, so most of my projects are about development and/or consultation on blockchain capabilities.
-
-I have experience mostly with EVM (Ethereum Virtual Machine) based blockchains and StarkNet. I have been doing EVM based development since early 2018.
+I'm a Zero Knowledge and Ethereum Virtual Machine developer / consultant. I research, consult and implement various kinds of projects. I have been doing EVM based development since early 2018, and ZK development from 2021.
 
 I am currently in all-time top 10 list in Ethereum StackExchange (https://ethereum.stackexchange.com/users/31933/lauri-peltonen) and active in various other support forums.
 
@@ -12,14 +10,18 @@ I am currently in all-time top 10 list in Ethereum StackExchange (https://ethere
 
 Some of the codes are available in my personal GitHub (https://github.com/microbecode), some codes in clients' repositories and some code is private.
 
-## Most used tools
+## ZK history
 
-- Solidity
-- Hardhat
-- React + TypeScript
-- Mocha + chai
+Most notable projects:
 
-## History
+- 2023 Aztec (Noir) memorygame PoC, [Github](https://github.com/eqlabs/aztec-memorygame) and [blog post](https://equilibrium.co/blog/aztec)
+- 2023 Mina hackathon [project](https://github.com/microbecode/mina_devdao_hackathon)
+- 2022 Second prize in Starknet hackathon: [AA contract store](https://github.com/team-brewery/wallet-app-store)
+- 2021-23 [Starknet multisig](https://github.com/eqlabs/starknet-multisig) project.
+
+## EVM History
+
+Most notable projects:
 
 - 2022: Contracts and Fireblocks integration for [EUROe](https://www.euroe.com/) Ethereum-based stablecoin.
 - 2022: NFT Marketplace contracts from scratch (codes not public yet): direct sale, auction, offers.
@@ -44,4 +46,4 @@ Plus gazillions other smaller paid and non-paid consultations / hotfixes for var
 
 ## Get in touch
 
-Easiest is to either poke me directly in LinkedIn https://www.linkedin.com/in/lauri-peltonen/) or through Telegram username *Lauri_P* .
+Easiest is to either poke me directly in Telegram (username *Lauri_P*) or [Twitter](https://twitter.com/LauriPelto)
