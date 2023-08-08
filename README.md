@@ -1,8 +1,8 @@
-# Blockchain portfolio
+# Freelancing portfolio
 
 ## General
 
-I'm a Zero Knowledge and Ethereum Virtual Machine developer / consultant. I research, consult and implement various kinds of projects. I have been doing EVM based development since early 2018, and ZK development from 2021.
+I'm a Zero Knowledge and Ethereum Virtual Machine developer / consultant. I research, consult and implement various kinds of projects. I have been doing EVM based development since early 2018 and ZK development from 2021.
 
 I am currently in all-time top 10 list in Ethereum StackExchange (https://ethereum.stackexchange.com/users/31933/lauri-peltonen) and active in various other support forums.
 
@@ -19,7 +19,7 @@ Most notable projects:
 - 2022 Second prize in Starknet hackathon: [AA contract store](https://github.com/team-brewery/wallet-app-store)
 - 2021-23 [Starknet multisig](https://github.com/eqlabs/starknet-multisig) project.
 
-## EVM History
+## EVM history
 
 Most notable projects:
 
@@ -47,4 +47,4 @@ Plus gazillions other smaller paid and non-paid consultations / hotfixes for var
 
 ## Get in touch
 
-Easiest is to either poke me directly in Telegram (username *Lauri_P*) or [Twitter](https://twitter.com/LauriPelto)
+[Find a medium](https://linktr.ee/lauripeltonen) which works for you!
