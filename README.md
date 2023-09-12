@@ -40,6 +40,7 @@ Plus gazillions other smaller paid and non-paid consultations / hotfixes for var
 ### Other non-technical experience
 
 - Owner of [Zero Knowledge Discord](https://discord.gg/kgyeqhjHMH).
+- 2023: Talk at a [ZK meetup](https://youtu.be/F7gPWpzVCD8).
 - 2022: Speaker/mentor/judge at [EthBrno hackathon](https://ethbrno.cz). [Presentation](https://www.youtube.com/watch?v=3cYuBc3DAIg)
 - 2022: Speaker at [PyChain](https://www.pychain.org/) conference. [Presentation](https://www.youtube.com/watch?v=yovqD0jtQSc)
 - 2018: one-day teaching session in Geneva, Switzerland at Geneve Center for Security Policy with topic "Blockchain for policy makers": https://twitter.com/anna_brach/status/1101132968796524544
