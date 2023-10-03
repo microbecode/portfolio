@@ -39,7 +39,7 @@ Plus gazillions other smaller paid and non-paid consultations / hotfixes for var
 
 ### Other non-technical experience
 
-- Owner of [Zero Knowledge Discord](https://discord.gg/kgyeqhjHMH).
+- Firestarter at [Zero Knowledge Club](https://zeroknowledge.club).
 - 2023: Talk at [ZkSummit10](https://www.youtube.com/watch?v=zC3uylrXAQ4) conference.
 - 2023: Talk at a [ZK meetup](https://youtu.be/F7gPWpzVCD8).
 - 2022: Speaker/mentor/judge at [EthBrno hackathon](https://ethbrno.cz). [Presentation](https://www.youtube.com/watch?v=3cYuBc3DAIg)
