@@ -14,6 +14,8 @@ Some of the codes are available in my personal GitHub (https://github.com/microb
 
 Most notable projects:
 
+- 2023 Mina "user age check for websites" project, [GitHub](https://github.com/microbecode/zk-agecheck)
+- 2023 Risc0 PoC test project, [GitHub](https://github.com/microbecode/zk-authorize)
 - 2023 Aztec (Noir) memorygame PoC, [Github](https://github.com/eqlabs/aztec-memorygame) and [blog post](https://equilibrium.co/blog/aztec)
 - 2023 Mina hackathon [project](https://github.com/microbecode/mina_devdao_hackathon)
 - 2022 Second prize in Starknet hackathon: [AA contract store](https://github.com/team-brewery/wallet-app-store)
@@ -24,7 +26,7 @@ Most notable projects:
 Most notable projects:
 
 - 2022: Contracts and Fireblocks integration for [EUROe](https://www.euroe.com/) Ethereum-based stablecoin.
-- 2022: NFT Marketplace contracts from scratch (codes not public yet): direct sale, auction, offers.
+- 2022: NFT [Marketplace contracts](https://gitlab.com/onpulse/nftonpulse/nftop-contracts) from scratch: direct sale, auction, offers.
 - 2021: NFT rescue with Flashbots: <a href='https://medium.com/@laurippeltonen/rescuing-an-nft-fd0acccfa25a?source=friends_link&sk=1ad63c60bb05a8460c3cdbb44eff3dd5'>Blog post</a>.
 - 2021: Reward distribution <a href='https://github.com/microbecode/Solarmine'>contracts</a> for <a href='http://solarminecoin.com/'>Solarmine</a>
 - 2021: Staking <a href='https://github.com/microbecode/Score-Milk-staking'>contracts</a> for Score Milk (https://scoremilk.com). Staking algorithm based on Synthetix staking
