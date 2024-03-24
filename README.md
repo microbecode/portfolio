@@ -14,7 +14,8 @@ Some of the codes are available in my personal GitHub (https://github.com/microb
 
 Most notable projects:
 
-- 2024 Mina Identity onramp project, [GitHub](https://github.com/microbecode/zk-identity-onramp)
+- 2024 STARK prover & verifier from scratch (ongoing), [GitHub](https://github.com/microbecode/stark-from-zero)
+- 2024 Mina Identity onramp project (ongoing), [GitHub](https://github.com/microbecode/zk-identity-onramp)
 - 2023 Mina "user age check for websites" project, [GitHub](https://github.com/microbecode/zk-agecheck)
 - 2023 Risc0 PoC test project, [GitHub](https://github.com/microbecode/zk-authorize)
 - 2023 Aztec (Noir) memorygame PoC, [Github](https://github.com/eqlabs/aztec-memorygame) and [blog post](https://equilibrium.co/blog/aztec)
