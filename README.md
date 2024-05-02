@@ -16,6 +16,7 @@ Most notable projects:
 
 - 2024 STARK prover & verifier from scratch (ongoing), [GitHub](https://github.com/microbecode/stark-from-zero)
 - 2024 Mina Identity onramp project (ongoing), [GitHub](https://github.com/microbecode/zk-identity-onramp)
+- 2024 Aleo (Leo) memorygame [GitHub](https://github.com/microbecode/zk-memorygame)
 - 2023 Mina "user age check for websites" project, [GitHub](https://github.com/microbecode/zk-agecheck)
 - 2023 Risc0 PoC test project, [GitHub](https://github.com/microbecode/zk-authorize)
 - 2023 Aztec (Noir) memorygame PoC, [Github](https://github.com/eqlabs/aztec-memorygame) and [blog post](https://equilibrium.co/blog/aztec)
@@ -42,6 +43,7 @@ Plus gazillions other smaller paid and non-paid consultations / hotfixes for var
 
 ### Other non-technical experience
 
+- Lots of ZK-related articles at [Medium (100+ followers)](https://medium.com/@laurippeltonen)
 - Firestarter at [Zero Knowledge Club](https://zeroknowledge.club).
 - 2023: Talk at [ZkSummit10](https://www.youtube.com/watch?v=zC3uylrXAQ4) conference.
 - 2023: Talk at a [ZK meetup](https://youtu.be/F7gPWpzVCD8).
