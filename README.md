@@ -45,6 +45,7 @@ Plus gazillions other smaller paid and non-paid consultations / hotfixes for var
 
 - Lots of ZK-related articles at [Medium (100+ followers)](https://medium.com/@laurippeltonen)
 - Firestarter at [Zero Knowledge Club](https://zeroknowledge.club).
+- 2024: Talk at [EthPrague](https://www.youtube.com/watch?v=mtucno8c9MQ) conference.
 - 2023: Talk at [ZkSummit10](https://www.youtube.com/watch?v=zC3uylrXAQ4) conference.
 - 2023: Talk at a [ZK meetup](https://youtu.be/F7gPWpzVCD8).
 - 2022: Speaker/mentor/judge at [EthBrno hackathon](https://ethbrno.cz). [Presentation](https://www.youtube.com/watch?v=3cYuBc3DAIg)
