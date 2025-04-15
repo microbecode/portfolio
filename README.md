@@ -26,14 +26,16 @@ Most notable projects:
 - 2020: <a href='https://github.com/microbecode/Score-Milk-token'>gaming contracts</a> for Score Milk (https://scoremilk.com)
 - 2018: Implemented two ICOs: https://github.com/envirate/ico and https://github.com/Dealjoy/dealjoy_smart_contract
 
-Plus gazillions other smaller paid and non-paid consultations / hotfixes for various projects.
+Plus a gazillion other smaller paid and non-paid consultations / hotfixes for various projects.
 
 ## ZK history
 
 Most notable projects:
 
-- 2024 STARK prover & verifier from scratch (ongoing), [GitHub](https://github.com/microbecode/stark-from-zero)
-- 2024 Mina Identity onramp project (ongoing), [GitHub](https://github.com/microbecode/zk-identity-onramp)
+- 2025 Technical docs for [Starknet Madara](https://docs.madara.build/) Appchain
+- 2024-25 Audits of Mina [ZKNoid](https://docs.zknoid.io/zkNoidAuditAug2024Final.pdf) and Cairo [PWN Finance](https://security.extropy.io/static/media/PWNFinance.ec89541dfbb52796f439.pdf)
+- 2024 STARK prover & verifier from scratch (on hold), [GitHub](https://github.com/microbecode/stark-from-zero)
+- 2024 Mina Identity onramp project, [GitHub](https://github.com/microbecode/zk-identity-onramp)
 - 2024 Aleo (Leo) memorygame [GitHub](https://github.com/microbecode/zk-memorygame)
 - 2023 Mina "user age check for websites" project, [GitHub](https://github.com/microbecode/zk-agecheck)
 - 2023 Risc0 PoC test project, [GitHub](https://github.com/microbecode/zk-authorize)
@@ -44,8 +46,7 @@ Most notable projects:
 
 ### Other non-technical experience
 
-- Lots of ZK-related articles at [Medium (100+ followers)](https://medium.com/@laurippeltonen)
-- Firestarter at [Zero Knowledge Club](https://zeroknowledge.club).
+- Lots of ZK-related articles at [Medium (200+ followers)](https://medium.com/@laurippeltonen)
 - 2024: Talk at [EthPrague](https://www.youtube.com/watch?v=mtucno8c9MQ) conference.
 - 2023: Talk at [ZkSummit10](https://www.youtube.com/watch?v=zC3uylrXAQ4) conference.
 - 2023: Talk at a [ZK meetup](https://youtu.be/F7gPWpzVCD8).
