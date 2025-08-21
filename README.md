@@ -51,10 +51,11 @@ Plus a gazillion other smaller paid and non-paid consultations / hotfixes for va
 - 2025: Talk [ZK intro](https://www.youtube.com/watch?v=miIOJFkGcY4) (ZkMonk bootcamp).
 - 2025: Talk [ZK auditing](https://www.youtube.com/watch?v=hDp2Bbppp9Y) (Remedy).
 - 2025: Talk [Privacy for blockchains](https://www.youtube.com/watch?v=c3-htx7dHeA) (Web3SSH conference).
-- 2024: Talk [Zero Knowledge privacy in action](https://www.youtube.com/watch?v=mtucno8c9MQ) (EthPrague hackathon). Also judging and mentoring.
+- 2025: Talk [FHE eats ZK for breakfast](https://www.youtube.com/watch?v=eXEcaPqb34w&t=311s) (EthDam conference & hackathon). Also judging and mentoring.
+- 2024: Talk [Zero Knowledge privacy in action](https://www.youtube.com/watch?v=mtucno8c9MQ) (EthPrague conference & hackathon). Also judging and mentoring.
 - 2023: Talk [How I learn ZK](https://www.youtube.com/watch?v=zC3uylrXAQ4) (ZkSummit conference).
 - 2023: Talk [ZK use cases](https://youtu.be/F7gPWpzVCD8) (Polygon meetup).
-- 2022: Talk [Privacy on Starknet](https://www.youtube.com/watch?v=3cYuBc3DAIg) (EthBrno hackathon). Also judging and mentoring.
+- 2022: Talk [Privacy on Starknet](https://www.youtube.com/watch?v=3cYuBc3DAIg) (EthBrno conference & hackathon). Also judging and mentoring.
 - 2022: Talk [Privacy on Starknet](https://www.youtube.com/watch?v=yovqD0jtQSc) (PyChain conference).
 - 2018: one-day teaching session in Geneva, Switzerland at Geneve Center for Security Policy with topic "Blockchain for policy makers": https://twitter.com/anna_brach/status/1101132968796524544
 
