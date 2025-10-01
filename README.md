@@ -14,6 +14,7 @@ Some of the codes are available in my personal [GitHub](https://github.com/micro
 
 Most notable projects:
 
+- 2025 Rust [ZK STARK](https://github.com/microbecode/stark-from-zero) prover & verifier with zero dependencies
 - 2025 Technical writing for RareSkills (currently undisclosed topics)
 - 2025 Technical docs for [Starknet Madara](https://docs.madara.build/) Appchain
 - 2024-25 Audits of Mina [ZKNoid](https://docs.zknoid.io/zkNoidAuditAug2024Final.pdf) and Cairo [PWN Finance](https://security.extropy.io/static/media/PWNFinance.ec89541dfbb52796f439.pdf)
