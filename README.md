@@ -18,7 +18,6 @@ Most notable projects:
 - 2025 Technical writing for RareSkills (currently undisclosed topics)
 - 2025 Technical docs for [Starknet Madara](https://docs.madara.build/) Appchain
 - 2024-25 Audits of Mina [ZKNoid](https://docs.zknoid.io/zkNoidAuditAug2024Final.pdf) and Cairo [PWN Finance](https://security.extropy.io/static/media/PWNFinance.ec89541dfbb52796f439.pdf)
-- 2024 STARK prover & verifier from scratch (on hold), [GitHub](https://github.com/microbecode/stark-from-zero)
 - 2024 Mina Identity onramp project, [GitHub](https://github.com/microbecode/zk-identity-onramp)
 - 2024 Aleo (Leo) memorygame [GitHub](https://github.com/microbecode/zk-memorygame)
 - 2023 Mina "user age check for websites" project, [GitHub](https://github.com/microbecode/zk-agecheck)
