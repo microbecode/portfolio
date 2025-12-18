@@ -4,7 +4,7 @@
 
 I'm a Zero Knowledge and Ethereum Virtual Machine developer / consultant. I research, consult, and implement Ethereum and ZK projects. I have been doing EVM based development since early 2018 and ZK development from 2021.
 
-Top 10 [contributor](https://ethereum.stackexchange.com/users/31933/lauri-peltonen) on Ethereum StackExchange and active in various other forums.
+Top 10 [contributor](https://ethereum.stackexchange.com/users/31933/lauri-peltonen) on Ethereum StackExchange, [ERC-7950 author](https://eips.ethereum.org/EIPS/eip-7950) and active in various other support forums.
 
 ### Codes
 
